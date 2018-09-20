@@ -1,0 +1,11 @@
+# Modul2
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/Tgs.1.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/Tgs.2.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/Tgs.3.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/tuji.1.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/tuji.2.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/thas.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/Tgs.2.1.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/Tgs.2.2.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/tuji2.1.png)
+![alt text](https://github.com/ArjunaWM/Modul2/blob/master/tuji2.has.png)
